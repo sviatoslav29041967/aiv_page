@@ -3,6 +3,7 @@
     color: var(--color-main-black);
     padding: 60px 30px 100px 30px;
     text-align: center;
+    justify-content: center;
 }
 
 .about-title {
@@ -26,7 +27,7 @@
     text-align: justify;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 480px) {
     .about-subtitle-en,
     .about-subtitle-ru,
     .about-description-ru,
